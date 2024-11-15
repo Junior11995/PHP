@@ -13,6 +13,11 @@ $Mensaje = 'Hola, Mundo';
 // Booleanos (Boolean)
 $verdadero = true;// Los Booleanos son elementos que solo dan dos valores 1(Verdadero) y 0 (Falso)
 $falso = false;
-//Arrays o arreglos en php 1233
+//Arrays o arreglos 
+// Los arrays son colecciones de valores que pueden ser seleccionados segun su numero (Arrays indexados) o por claves (arrays asociativos)
 
+// ejemplo de array indexado 
+$numeros = array(1,2,3,4,5);
+// ejemplo de arrays asociativos 
+$referencia = array("Nombre"=>"Junior Alexis","Apellido"=>"Valera Rijo");
 ?>
